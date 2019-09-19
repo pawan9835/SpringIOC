@@ -7,8 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3 style="color: red;">Welcome</h3> ${user}
 
+<form action="Userlogin" >
+    <input type="text" placeholder="Enter Username" name="userID"></br>
 
+    <input type="password" placeholder="Enter Password" name="userPwd">
+
+    <button type="submit">Login</button>
+
+</form>
 </body>
 </html>

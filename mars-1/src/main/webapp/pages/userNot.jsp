@@ -7,8 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3 style="color: red;">Welcome</h3> ${user}
+<h1>
 
+Page not found :(   
 
+<p style="color: red;">Error : User ID and password not matched !!</p>
+</h1>
 </body>
 </html>
